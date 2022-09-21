@@ -1,0 +1,9 @@
+import com.mysql.cj.xdevapi.Statement;
+
+public class Address_Book_Main {
+	
+
+
+	private static void sqlqueries() {
+		String s1="Select * from address_book";
+}

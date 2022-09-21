@@ -1,0 +1,13 @@
+import com.mysql.cj.xdevapi.Statement;
+
+public class Address_Book_Main {
+	public static void main(String[] args) {
+
+		Address_Book_Connection b1 = new Address_Book_Connection();
+		b1.Connector();
+	}
+
+}
+
+//private static void sqlqueries() {
+//String s1="Select * from address_book"
